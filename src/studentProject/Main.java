@@ -337,7 +337,7 @@ public class Main {
 			message = "학번을 정확하게 입력하세요";
 			break;
 		case 2:
-			pattern = "^[A-z]{2,4}$";
+			pattern = "^[A-z]{2,10}$";
 			message = "이름을 정확하게 입력하세요";
 			break;
 		case 3:
